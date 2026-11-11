@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="assets/readme-banner.svg" alt="展开的书页，摘录真实短篇：房东约了傍晚来收钥匙。老许把招牌卸下来，靠在墙边。" width="900">
+  <img src="assets/readme-banner.svg" alt="中文小说工坊：按你的要求写小说，支持构思与大纲、写正文与续写、审稿与修改。" width="900">
 </p>
 
 # 中文小说工坊
-
-Chinese Novel Workshop
 
 **先了解你想写什么，再一起把它写出来。**
 

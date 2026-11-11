@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
-  <title id="title">从一个念头，翻到第一章。</title>
-  <desc id="desc">暖纸与墨绿的展开书页。右页摘录仓库真实短篇：房东约了傍晚来收钥匙。老许把招牌卸下来，靠在墙边。</desc>
+  <title id="title">中文小说工坊</title>
+  <desc id="desc">按你的要求写小说：构思与大纲、写正文与续写、审稿与修改。</desc>
   <rect width="900" height="280" fill="#234b40"/>
   <path d="M25 24 H424 Q450 24 450 39 Q450 24 476 24 H875 V259 H476 Q450 259 450 269 Q450 259 424 259 H25 Z" fill="#d5cfbd"/>
   <path d="M25 20 H424 Q450 20 450 35 V263 Q450 251 424 251 H25 Z" fill="#f5f0e3"/>
@@ -8,14 +8,13 @@
   <path d="M434 22 Q450 24 450 35 V260 Q443 254 434 253 Z" fill="#e6dfce"/>
   <path d="M450 35 Q450 24 462 22 V253 Q454 256 450 260 Z" fill="#eee7d7"/>
   <g fill="#234b40" font-family="'Noto Serif CJK SC','Source Han Serif SC','Songti SC','SimSun',serif">
-    <text x="69" y="135" font-size="42">从一个念头，</text>
-    <text x="69" y="190" font-size="42">翻到第一章。</text>
+    <text x="69" y="116" font-size="52">中文小说工坊</text>
+    <text x="69" y="177" font-size="36">按你的要求写小说</text>
   </g>
   <path d="M72 215 H126" stroke="#6c8376" stroke-width="1"/>
-  <g fill="#283e34" font-family="'Noto Serif CJK SC','Source Han Serif SC','Songti SC','SimSun',serif" font-size="36">
-    <text x="487" y="76">房东约了傍晚</text>
-    <text x="487" y="124">来收钥匙。</text>
-    <text x="487" y="172">老许把招牌卸下来，</text>
-    <text x="487" y="220">靠在墙边。</text>
+  <g fill="#283e34" font-family="'Noto Serif CJK SC','Source Han Serif SC','Songti SC','SimSun',serif" font-size="42">
+    <text x="487" y="91">构思与大纲</text>
+    <text x="487" y="151">写正文与续写</text>
+    <text x="487" y="211">审稿与修改</text>
   </g>
 </svg>
