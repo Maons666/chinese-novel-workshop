@@ -1,20 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
   <title id="title">中文小说工坊</title>
-  <desc id="desc">按你的要求写小说：构思与大纲、写正文与续写、审稿与修改。</desc>
-  <rect width="900" height="280" fill="#234b40"/>
-  <path d="M25 24 H424 Q450 24 450 39 Q450 24 476 24 H875 V259 H476 Q450 259 450 269 Q450 259 424 259 H25 Z" fill="#d5cfbd"/>
-  <path d="M25 20 H424 Q450 20 450 35 V263 Q450 251 424 251 H25 Z" fill="#f5f0e3"/>
-  <path d="M450 35 Q450 20 476 20 H875 V251 H476 Q450 251 450 263 Z" fill="#faf6ec"/>
-  <path d="M434 22 Q450 24 450 35 V260 Q443 254 434 253 Z" fill="#e6dfce"/>
-  <path d="M450 35 Q450 24 462 22 V253 Q454 256 450 260 Z" fill="#eee7d7"/>
-  <g fill="#234b40" font-family="'Noto Serif CJK SC','Source Han Serif SC','Songti SC','SimSun',serif">
-    <text x="69" y="116" font-size="52">中文小说工坊</text>
-    <text x="69" y="177" font-size="36">按你的要求写小说</text>
-  </g>
-  <path d="M72 215 H126" stroke="#6c8376" stroke-width="1"/>
-  <g fill="#283e34" font-family="'Noto Serif CJK SC','Source Han Serif SC','Songti SC','SimSun',serif" font-size="42">
-    <text x="487" y="91">构思与大纲</text>
-    <text x="487" y="151">写正文与续写</text>
-    <text x="487" y="211">审稿与修改</text>
+  <desc id="desc">按你的要求写小说。构思与大纲、正文与续写、审稿与修改。</desc>
+  <rect width="900" height="320" fill="#F6F8FC"/>
+  <rect width="8" height="320" fill="#2D59E5"/>
+  <g font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Source Han Sans SC',sans-serif" fill="#14243E">
+    <text x="56" y="124" font-size="80" font-weight="700" letter-spacing="-2">中文小说工坊</text>
+    <text x="844" y="122" font-size="36" font-weight="500" text-anchor="end" fill="#2D59E5">写作技能</text>
+    <text x="56" y="188" font-size="40" font-weight="400">按你的要求写小说</text>
+    <path d="M56 232H844" fill="none" stroke="#D5DEEC" stroke-width="2"/>
+    <path d="M56 232H116" fill="none" stroke="#2D59E5" stroke-width="4"/>
+    <g font-size="36" font-weight="500">
+      <text x="56" y="285">构思与大纲</text>
+      <text x="356" y="285">正文与续写</text>
+      <text x="656" y="285">审稿与修改</text>
+    </g>
   </g>
 </svg>
