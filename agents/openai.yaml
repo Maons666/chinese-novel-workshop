@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文小说工坊"
+  short_description: "通过作者访谈定制原创与同人的构思、写作、连续性管理和审阅流程"
+  default_prompt: "请用 $chinese-novel-workshop 先了解我的篇幅、已有构思、题材与文风，选择适合我的方法陪我写中文小说。"

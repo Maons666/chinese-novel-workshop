@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+# 本地书稿和测试输出不进入公开技能仓库
+workspace/
+private/
+eval-output/
